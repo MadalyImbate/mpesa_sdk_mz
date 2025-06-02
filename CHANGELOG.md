@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.0.2] - 02/Jun/2025
+
+### Changed
+
+- Dependencies updated
+
+
+# Changelog
+
 ## [2.0.1] - 27/Mar/2021
 
 ### Added
