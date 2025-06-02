@@ -40,7 +40,7 @@ class RsaKeyHelper {
     } else {
       var publicKeyBitString = topLevelSeq.elements[1];
 
-      var publicKeyAsn = ASN1Parser(publicKeyBitString.contentBytes()!);
+      var publicKeyAsn = ASN1Parser(publicKeyBitString.contentBytes());
       ASN1Sequence publicKeySeq = publicKeyAsn.nextObject() as ASN1Sequence;
       modulus = publicKeySeq.elements[0] as ASN1Integer;
       exponent = publicKeySeq.elements[1] as ASN1Integer;

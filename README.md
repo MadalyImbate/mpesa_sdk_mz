@@ -1,6 +1,6 @@
 # mpesa_sdk_dart
 
-[![Pub Version](https://img.shields.io/pub/v/mpesa_sdk_dart?color=blue)](https://pub.dev/packages/mpesa_sdk_dart)
+[![Pub Version](https://img.shields.io/pub/v/mpesa_sdk_dart?color=blue)](https://pub.dev/packages/mpesa_sdk_mz)
 ![GitHub](https://img.shields.io/github/license/realrgt/mpesa_sdk_dart)
 ![GitHub repo size](https://img.shields.io/github/repo-size/realrgt/mpesa_sdk_dart?color=red)
 
@@ -38,7 +38,7 @@ dependencies:
 Import in your Flutter app or plain dart app.
 
 ```dart
-import 'package:mpesa_sdk_dart/mpesa_sdk_dart.dart';
+import 'package:mpesa_sdk_dart/mpesa_sdk_mz.dart';
 ```
 
 ### Generate a token

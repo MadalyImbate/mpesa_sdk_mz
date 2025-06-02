@@ -1,4 +1,4 @@
-library mpesa_sdk_dart;
+library mpesa_sdk_mz;
 
 export 'src/config/mpesa_config.dart';
 export 'src/repository/mpesa_transaction.dart';

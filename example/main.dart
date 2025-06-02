@@ -1,4 +1,4 @@
-import 'package:mpesa_sdk_mz/mpesa_sdk_dart.dart';
+import 'package:mpesa_sdk_mz/mpesa_sdk_mz.dart';
 
 main() async {
   String token = MpesaConfig.getBearerToken(
