@@ -1,11 +1,11 @@
 name: mpesa_sdk_mz
 description: A Dart package for M-Pesa API (Mozambique).(An updated version of the [mpesa_sdk_dart] package). This package can be used in every dart frameworks as it's written in plain dart.
-version: 2.0.2
+version: 2.0.3
 repository: https://github.com/MadalyImbate/mpesa_sdk_mz
 homepage: https://github.com/MadalyImbate/mpesa_sdk_mz
 
 environment:
-  sdk: '>=2.12.0 <4.0.0'
+  sdk: ">=2.12.0 <4.0.0"
 
 dependencies:
   pointycastle: ^4.0.0
