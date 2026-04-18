@@ -1,0 +1,4 @@
+enum MpesaEnvironment {
+  sandbox,
+  production,
+}
