@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.0.0] - 18/Apr/2026
+
+Major release with breaking changes.
+
+## [2.0.4] - 18/Apr/2026
+
+Republished package from the reset repository history.
+
 ## [1.0.0] - 18/Apr/2026
 
 Initial release of the current `mpesa_sdk_mz` base.

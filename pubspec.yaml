@@ -1,6 +1,6 @@
 name: mpesa_sdk_mz
 description: A Dart package for M-Pesa API (Mozambique), maintained by ultramarcante and usable in any Dart framework because it is written in plain Dart.
-version: 1.0.0
+version: 3.0.0
 repository: https://github.com/MadalyImbate/mpesa_sdk_mz
 homepage: https://github.com/MadalyImbate/mpesa_sdk_mz
 
