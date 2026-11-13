@@ -1,5 +1,9 @@
 # Changelog
 
+## [3.0.1] - 13/Nov/2026
+
+Applying `dart migrate --apply`.
+
 ## [3.0.0] - 18/Apr/2026
 
 Major release with breaking changes.
